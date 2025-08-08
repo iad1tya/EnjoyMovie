@@ -1,6 +1,6 @@
 # 🎬 Enjoy Movie
 
-**Enjoy Movie** is a feature-rich, single-page web application for browsing and streaming movies and TV shows. It's designed to be a sleek, modern, and user-friendly portal for media discovery, built entirely with vanilla JavaScript and the TMDB API.
+**Enjoy Movie** is a feature-rich, web application for browsing and streaming movies and TV shows.
 
 ---
 
