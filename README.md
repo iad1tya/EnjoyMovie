@@ -1,6 +1,6 @@
 # 🎬 Enjoy Movie
 
-**Enjoy Movie** is a feature-rich, web application for browsing and streaming movies and TV shows.
+**Enjoy Movie** is a feature-rich, web application for browsing and streaming Movies, Anime and TV shows.
 
 ---
 
