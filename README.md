@@ -26,17 +26,6 @@ Enjoy Movie offers a complete, personalized media browsing experience without re
 
 ---
 
-### 🛠️ Tech Stack
-
-* **Frontend:** HTML5, Tailwind CSS, Vanilla JavaScript
-* **API:** [The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api)
-* **Libraries:**
-    * [Chart.js](https://www.chartjs.org/) for data visualization in the stats dashboard.
-    * [Feather Icons](https://feathericons.com/) for a clean and modern icon set.
-* **Storage:** Browser `localStorage` is used for all personalization features.
-
----
-
 ### 📸 Screenshots
 
 ![The main browsing interface.](Screenshots/main-screen.png)
