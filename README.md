@@ -39,15 +39,13 @@ Enjoy Movie offers a complete, personalized media browsing experience without re
 
 ### 📸 Screenshots
 
-*(Here you would add screenshots of your application)*
-
-****
+![The main browsing interface.](Screenshots/main-screen.png)
 *The main browsing interface.*
 
-****
+![Detailed view of a specific movie.](Screenshots/movie-detail.png)
 *Detailed view of a specific movie.*
 
-****
+![The personalized user statistics dashboard.](Screenshots/stats.png)
 *The personalized user statistics dashboard.*
 
 ---
