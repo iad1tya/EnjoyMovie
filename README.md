@@ -36,9 +36,3 @@ Enjoy Movie offers a complete, personalized media browsing experience without re
 
 ![The personalized user statistics dashboard.](Screenshots/stats.png)
 *The personalized user statistics dashboard.*
-
----
-
-### Disclaimer
-
-Enjoy Movie does not host any content on its own servers. It acts as a client-side interface that fetches data from the TMDB API and displays embedded video content from third-party sources. This project was created for educational and portfolio purposes.
